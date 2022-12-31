@@ -9,5 +9,5 @@ Esta es una maquetacion echa en HTML5 y CSS3 (Gird y Flexbox)
 
 ## Demo de la web
 ```
-https://chino-hdp.github.io/tiendaMuebles/
+https://victor-venegas-calbillan.github.io/tiendaMuebles/
 ```
